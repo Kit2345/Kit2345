@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi. I am Kit. Nice to meet you!  
+
+- 👨‍🔬 formely a (wet lab based) scientist in the field of Genomics/Cancer
+- 🖥 currently starting my journey with the School of Code to become a software dev
+- 🪡🎮🥾 Hobbies: sewing, video games and hiking
+- 😄 Pronouns: He/Him
 
 <!--
 **Kit2345/Kit2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
