@@ -1,7 +1,7 @@
 Hi. I am Kit. Nice to meet you!  
 
 - 👨‍🔬 formely a (wet lab based) scientist in the field of Genomics/Cancer
-- 🖥 currently starting my journey with the School of Code to become a software dev
+- 🖥 started my journey with the School of Code to become a software dev in September 2023
 - 🪡🎮🥾 Hobbies: sewing, video games and hiking
 - 😄 Pronouns: He/Him
 
