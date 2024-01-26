@@ -91,7 +91,6 @@ Javascript, HTML, CSS
     <td>Javascript, HTML, CSS</td>
     <td>
      <a href="https://github.com/Kit2345/minesweeper/blob/main/README.md">Click for more information</a><br>
-     Desktop/requires mouseclick.
     </td>
   </tr>
 </table>
