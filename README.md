@@ -1,4 +1,7 @@
 <h1>Hi. I am Kit. </h1>
+
+## Bio
+
 <div> I love coding because it blends creativity and abstraction with logic and problem solving, with the satisfaction of making something which people value.
 </div>
 <br> 
@@ -67,6 +70,12 @@ sewing, video games, hiking, board games and baking <br>
   </tr>
 </table>
 
+## What am I currently doing? 
+- Working on my portfolio website
+- Designing an app to search for cards in Hearthstone Battlegrounds mode
+- Learning Python
+- Learning React Native
+- Continually learning, improving and working on myself. 
 
 
 
