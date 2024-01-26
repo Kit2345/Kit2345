@@ -89,7 +89,10 @@ Javascript, HTML, CSS
     <td><a href="https://github.com/Kit2345/minesweeper">Github Repo</a></td>
     <td><a href="https://minesweeper-omega-eight.vercel.app">Demo link</a></td>
     <td>Javascript, HTML, CSS</td>
-    <td><a href="https://github.com/Kit2345/minesweeper/blob/main/README.md">Click for more information</a></td>
+    <td>
+     <a href="https://github.com/Kit2345/minesweeper/blob/main/README.md">Click for more information</a><br>
+     Desktop/requires mouseclick.
+    </td>
   </tr>
 </table>
 
