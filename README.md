@@ -20,11 +20,14 @@ sewing, video games, hiking, board games and baking <br>
 <br>
 
 ## Social Media
-<a href="https://www.linkedin.com/in/wing-kit-leung/"> LinkedIn
+<a href="https://www.linkedin.com/in/wing-kit-leung/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge"> 
 </a> <br>
+ <a href="https://www.codewars.com/users/Kit2345">
+  <img src="https://www.codewars.com/users/Kit2345/badges/small" alt="code-wars-badge">
+ </a><br>
 
+## Tech stack
 
-## Tech stack: 
 - Javascript
 - Typescript
 - React.js
@@ -32,6 +35,38 @@ sewing, video games, hiking, board games and baking <br>
 - Postgres SQL
 - Node.js
 - Express.js
+
+## Projects
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Github Repo</th> 
+    <th>Demo link</th>
+    <th>Tech Stack</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Zoom Dashboard</td>
+    <td><a href="https://github.com/Christener19/intern">Github Repo</a></td>
+    <td><a href="https://intern-soc.vercel.app/">Demo link</a></td>
+    <td>Next.js, Tailwind CSS, Typescript, Supabase, Chart.js, PostgreSQL</td>
+    <td>
+      4 week final project collaborating with 5 other School of Code bootcampers to solve a stakeholders problem. 
+      Log-in using: <br>
+      username: shifthappens.intern.demo@gmail.com <br>
+      password: interndemo123</td>
+  </tr>
+  <tr>
+    <td>Minesweeper Game </td>
+    <td><a href="https://github.com/Kit2345/minesweeper">Github Repo</a></td>
+    <td><a href="https://minesweeper-omega-eight.vercel.app">Demo link</a></td>
+    <td>Javascript, HTML, CSS</td>
+    <td></td>
+  </tr>
+</table>
+
+
+
 
 <!--
 **Kit2345/Kit2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
