@@ -1,16 +1,30 @@
-Hi. I am Kit. 
+<h1>Hi. I am Kit. </h1>
+<div> I love coding because it blends creativity and abstraction with logic and problem solving, with the satisfaction of making something which people value.
+</div>
+<br> 
 
-- 🖥 A full stack developer. I started my journey with the School of Code in September 2023. 
-- 👨‍🔬 formely a (wet lab based) scientist in the field of Genomics/Cancer
-- 🪡🎮🥾 Hobbies: sewing, video games, board games, baking and hiking
-- 😄 Pronouns: He/Him
+<div>
+🌍 Cambridge, UK <br>
+🖥 A Full-Stack Developer. <br>
+👨‍🔬 Formely a (wet lab based) scientist in the field of Genomics/Cancer. <br>
+😄 Pronouns: He/Him <br>
+</div>
 
-Social media:  
-<a href="https://www.linkedin.com/in/wing-kit-leung/">
-  LinkedIn
-</a>
+<br>
 
-Tech stack: 
+<div>
+Hobbies:
+🪡🎮🥾🎲🍰 <br>
+sewing, video games, hiking, board games and baking <br>
+</div>
+<br>
+
+## Social Media
+<a href="https://www.linkedin.com/in/wing-kit-leung/"> LinkedIn
+</a> <br>
+
+
+## Tech stack: 
 - Javascript
 - Typescript
 - React.js
