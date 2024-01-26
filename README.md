@@ -54,14 +54,16 @@ sewing, video games, hiking, board games and baking <br>
       4 week final project collaborating with 5 other School of Code bootcampers to solve a stakeholders problem. 
       Log-in using: <br>
       username: shifthappens.intern.demo@gmail.com <br>
-      password: interndemo123</td>
+      password: interndemo123 <br> 
+      <a href="https://github.com/Christener19/intern/blob/main/README.md">Click for more information</a>
+    </td>
   </tr>
   <tr>
     <td>Minesweeper Game </td>
     <td><a href="https://github.com/Kit2345/minesweeper">Github Repo</a></td>
     <td><a href="https://minesweeper-omega-eight.vercel.app">Demo link</a></td>
     <td>Javascript, HTML, CSS</td>
-    <td></td>
+    <td><a href="https://github.com/Kit2345/minesweeper/blob/main/README.md">Click for more information</a></td>
   </tr>
 </table>
 
