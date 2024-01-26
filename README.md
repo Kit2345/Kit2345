@@ -1,6 +1,6 @@
 <h1>Hi. I am Kit. </h1>
 
-## Bio
+## About me
 
 <div> I love coding because it blends creativity and abstraction with logic and problem solving, with the satisfaction of making something which people value.
 </div>
@@ -31,13 +31,36 @@ sewing, video games, hiking, board games and baking <br>
 
 ## Tech stack
 
-- Javascript
-- Typescript
-- React.js
-- Next.js
-- Postgres SQL
-- Node.js
-- Express.js
+<div>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" alt="javacript-badge">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic" alt="typescript-badge">
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" alt="reactjs-badge">
+<img src="https://img.shields.io/badge/-Next.Js-000000?logo=next.js&logoColor=white&style=plastic" alt="nextjs-badge">
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=plastic" alt="postgresql-badge">
+<img src="https://img.shields.io/badge/-Node.JS-339933?logo=nodedotjs&logoColor=white&style=plastic" alt="nodedotjs-badge">
+<img src="https://img.shields.io/badge/-Express.JS-000000?logo=express&logoColor=white&style=plastic" alt="express-badge">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic" alt="html5-badge">
+<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=plastic" alt="tailwindcss-badge">
+
+</div>
+
+<!--
+<div>
+<img src="https://img.shields.io/badge/-Next.JS-000000?logo=nextdotjs&logoColor=white&style=plastic" alt="nextdotjs-badge">
+<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=plastic" alt="tailwindcss-badge">
+<img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=plastic" alt="typescript-badge">
+<img src="https://img.shields.io/badge/-PostreSQL-4169E1?logo=postgresql&logoColor=white&style=plastic" alt="postgresql-badge">
+<img src="https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white&style=plastic" alt="supabase-badge">
+<img src="https://img.shields.io/badge/-Chart.JS-FF6384?logo=chartdotjs&logoColor=white&style=plastic" alt="chartdotjs-badge">
+</div>
+
+Javascript, HTML, CSS
+<div>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" alt="javacript-badge">
+
+</div>
+-->
+
 
 ## Projects
 <table>
@@ -52,7 +75,7 @@ sewing, video games, hiking, board games and baking <br>
     <td>Zoom Dashboard</td>
     <td><a href="https://github.com/Christener19/intern">Github Repo</a></td>
     <td><a href="https://intern-soc.vercel.app/">Demo link</a></td>
-    <td>Next.js, Tailwind CSS, Typescript, Supabase, Chart.js, PostgreSQL</td>
+    <td>Next.JS, Tailwind CSS, Typescript, Supabase, Chart.js, PostgreSQL</td>
     <td>
       4 week final project collaborating with 5 other School of Code bootcampers to solve a stakeholders problem. 
       Log-in using: <br>
