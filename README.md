@@ -38,10 +38,17 @@ sewing, video games, hiking, board games and baking <br>
 <img src="https://img.shields.io/badge/-Next.Js-000000?logo=next.js&logoColor=white&style=plastic" alt="nextjs-badge">
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=plastic" alt="postgresql-badge">
 <img src="https://img.shields.io/badge/-Node.JS-339933?logo=nodedotjs&logoColor=white&style=plastic" alt="nodedotjs-badge">
-<img src="https://img.shields.io/badge/-Express.JS-000000?logo=express&logoColor=white&style=plastic" alt="express-badge">
+<img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=plastic" alt="express-badge">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic" alt="html5-badge">
 <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=plastic" alt="tailwindcss-badge">
+</div>
 
+<div>
+Testing: <br>
+<img src="https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white&style=plastic" alt="vitest-badge">
+<img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=plastic" alt="playwright-badge">
+<img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=plastic" alt="jest-badge">
+ 
 </div>
 
 <!--
@@ -75,7 +82,7 @@ Javascript, HTML, CSS
     <td>Zoom Dashboard</td>
     <td><a href="https://github.com/Christener19/intern">Github Repo</a></td>
     <td><a href="https://intern-soc.vercel.app/">Demo link</a></td>
-    <td>Next.JS, Tailwind CSS, Typescript, Supabase, Chart.js, PostgreSQL</td>
+    <td>Next.JS, Tailwind CSS, Typescript, Supabase, Chart.js, PostgreSQL, Playwright, Ts-Jest, </td>
     <td>
       4 week final project collaborating with 5 other School of Code bootcampers to solve a stakeholders problem. 
       Log-in using: <br>
