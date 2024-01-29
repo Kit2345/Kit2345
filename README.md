@@ -31,6 +31,7 @@ sewing, video games, hiking, board games and baking <br>
 
 ## Tech stack
 
+### Frontend/backend:
 <div>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" alt="javacript-badge">
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic" alt="typescript-badge">
@@ -43,13 +44,20 @@ sewing, video games, hiking, board games and baking <br>
 <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=plastic" alt="tailwindcss-badge">
 </div>
 
+### Testing:
 <div>
-Testing: <br>
-<img src="https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white&style=plastic" alt="vitest-badge">
-<img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=plastic" alt="playwright-badge">
+   <img src="https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white&style=plastic" alt="vitest-badge">
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=plastic" alt="playwright-badge">
 <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=plastic" alt="jest-badge">
- 
 </div>
+
+### Planning:
+<div>
+<img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=plastic" alt="figma-badge">
+<img src="https://img.shields.io/badge/-Trello-0052CC?logo=Trello&logoColor=white&style=plastic" alt="trello-badge">
+</div>
+
+
 
 <!--
 <div>
