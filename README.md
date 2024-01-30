@@ -99,6 +99,12 @@ sewing, video games, hiking, board games and baking <br>
 <img src="https://img.shields.io/badge/-Trello-0052CC?logo=Trello&logoColor=white&style=plastic" alt="trello-badge">
 </div>
 
+### Stats
+![kit2345's Stats](https://github-readme-stats.vercel.app/api?username=kit2345&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<br>
+![kit2345's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kit2345&theme=vue-dark&hide_border=true)
+<br>
+![kit2345's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kit2345&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 <!--
