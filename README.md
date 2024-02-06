@@ -57,10 +57,11 @@ sewing, video games, hiking, board games and baking <br>
 </table>
 
 ## What am I currently doing? 
-- Working on my portfolio website
 - Designing an app to search for cards in Hearthstone Battlegrounds mode
 - Learning Python
 - Learning React Native
+- Working on my portfolio website
+- At least 1 codewars Kata a day
 - Continually learning, improving and working on myself. 
 
 
