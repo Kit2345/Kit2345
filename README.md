@@ -45,6 +45,7 @@ sewing, video games, hiking, board games and baking <br>
 <!--       Log-in using: <br>
       username: shifthappens.intern.demo@gmail.com <br>
       password: interndemo123 <br>  -->
+      <br>
       <a href="https://github.com/Christener19/intern/blob/main/README.md">Click for more information</a>
     </td>
   </tr>
