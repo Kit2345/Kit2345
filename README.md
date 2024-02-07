@@ -35,13 +35,16 @@ sewing, video games, hiking, board games and baking <br>
   <tr>
     <td>Zoom Dashboard</td>
     <td><a href="https://github.com/Christener19/intern">Github Repo</a></td>
-    <td><a href="https://intern-soc.vercel.app/">Demo link</a></td>
+    <td>
+      <a href="https://youtu.be/zLijHkYBln8?feature=shared">Demo Video</a><br>
+      <p></p>
+<!--       <a href="https://intern-soc.vercel.app/">Demo link</a></td> -->
     <td>Next.JS, Tailwind CSS, Typescript, Supabase, Chart.js, PostgreSQL, Playwright, Ts-Jest, </td>
     <td>
       4 week final project collaborating with 5 other School of Code bootcampers to solve a stakeholders problem. 
-      Log-in using: <br>
+<!--       Log-in using: <br>
       username: shifthappens.intern.demo@gmail.com <br>
-      password: interndemo123 <br> 
+      password: interndemo123 <br>  -->
       <a href="https://github.com/Christener19/intern/blob/main/README.md">Click for more information</a>
     </td>
   </tr>
