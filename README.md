@@ -34,7 +34,7 @@ sewing, video games, hiking, board games and baking <br>
   </tr>
   <tr>
     <td>Zoom Dashboard</td>
-    <td><a href="https://github.com/Christener19/intern">Github Repo</a></td>
+    <td><a href="https://github.com/Kit2345/intern">Github Repo</a></td>
     <td>
       <a href="https://youtu.be/zLijHkYBln8?feature=shared">Demo Video</a><br>
       <p></p>
@@ -46,7 +46,7 @@ sewing, video games, hiking, board games and baking <br>
       username: shifthappens.intern.demo@gmail.com <br>
       password: interndemo123 <br>  -->
       <br>
-      <a href="https://github.com/Christener19/intern/blob/main/README.md">Click for more information</a>
+      <a href="https://github.com/Kit2345/intern/blob/main/README.md">Click for more information</a>
     </td>
   </tr>
   <tr>
