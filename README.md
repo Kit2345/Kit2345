@@ -65,6 +65,13 @@ sewing, video games, hiking, board games and baking <br>
     <td>React, Javascript</td>
     <td>Built during the School of Code Bootcamp. Built in teams of three, using Driver/Navigator approach. Our first ever React app!</td>
   </tr>
+    <tr>
+    <td>Hackathon during Testing week</td>
+    <td><a href="https://github.com/Kit2345/bc15-w6-d5-hackathon-testathon-team17-week6">Github repo</a></td>
+    <td>NA</td>
+    <td>Vitest</td>
+    <td>During the bootcamp we learnt about automated testing using Vitest for Unit tests, and Playwright for end to end tests. This is the one day hackathon at the end of testing week.</td>
+  </tr>
   
 </table>
 
