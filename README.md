@@ -68,7 +68,7 @@ sewing, video games, hiking, board games and baking <br>
     <tr>
     <td>Hackathon during Testing week</td>
     <td><a href="https://github.com/Kit2345/bc15-w6-d5-hackathon-testathon-team17-week6">Github repo</a></td>
-    <td>NA</td>
+    <td><a href="https://github.com/Kit2345/bc15-w6-d5-hackathon-testathon-team17-week6/blob/main/todos/todos.test.js">Vitest file.</a></td>
     <td>Vitest, Playwright</td>
     <td>During the bootcamp we learnt about automated testing using Vitest for Unit tests, and Playwright for end to end tests. This is the one day hackathon at the end of testing week.</td>
   </tr>
