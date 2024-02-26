@@ -58,6 +58,14 @@ sewing, video games, hiking, board games and baking <br>
      <a href="https://github.com/Kit2345/minesweeper/blob/main/README.md">Click for more information</a><br>
     </td>
   </tr>
+  <tr>
+    <td>React Flashcards App</td>
+    <td><a href="https://github.com/Kit2345/bc15-w10-d2-workshop-react-flash-cards-app-week-10">Github repo</a></td>
+    <td><a href="https://bc15-w10-d2-workshop-react-flash-cards-app-week-10.vercel.app/">Demo link</a></td>
+    <td>React, Javascript</td>
+    <td>Built during the School of Code Bootcamp. Built in teams of three, using Driver/Navigator approach. Our first ever React app!</td>
+  </tr>
+  
 </table>
 
 ## What am I currently doing? 
@@ -65,7 +73,7 @@ sewing, video games, hiking, board games and baking <br>
 - Learning Python
 - Learning React Native
 - Working on my portfolio website
-- At least 1 codewars Kata a day
+- Codewars Katas
 - Continually learning, improving and working on myself. 
 
 
