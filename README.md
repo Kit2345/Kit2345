@@ -132,6 +132,13 @@ sewing, video games, hiking, board games and baking <br>
     <td>HTML, CSS</td>
     <td>This week was all about UX and UI. We recreated the look of the BBC news website using a mobile first approach (unfortunately that means it currently only looks correct on mobile, best is iphone 14 promax). Our next step would have been to use media queries so it can be truly responsive. </td>
   </tr>
+    <tr>
+    <td>Week 10: Recipe App</td>
+    <td><a href="https://github.com/Kit2345/bc15-w10-d5-hackathon-react-week-10-t29/tree/main/recipe">Github repo</a></td>
+    <td><a href="https://bc15-w10-d5-hackathon-react-week-10-t29.vercel.app">Demo Link</a></td>
+    <td>React, Javascript</td>
+    <td>We learnt React this week, and finished the week off by building a recipe App. We used a PostgreSQL database, but a non-relational one might have been better.</td>
+  </tr> 
 
 <!--  Row template
   <tr>
