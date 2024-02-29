@@ -77,7 +77,7 @@ sewing, video games, hiking, board games and baking <br>
   
 </table>
 
-## Weekly Hackathons at School of Code
+## One day Hackathons at School of Code
 
 <p>At the end of each week, we consolidated all our learning by taking part in a one day hackathon. We were given a brief, then scoped out the problem, planned using psuedo code before executing this plan. </p>
 
@@ -100,21 +100,21 @@ sewing, video games, hiking, board games and baking <br>
   <tr>
     <td>Week 3: Weather App</td>
     <td><a href="https://github.com/Kit2345/bc15-w3-d5-hackathon-fetch-team-17w3d1">Github repo</a></td>
-    <td><a href="">Demo Link</a></td>
+    <td><a href="https://bc15-w3-d5-hackathon-fetch-team-17w3d1.vercel.app">Demo Link</a></td>
     <td>Javascript, HTML, CSS</td>
     <td>This week covered fetching data from an API and manipulating the DOM. This week was tough, a lot of new concepts (probably can say the same about most weeks!). The weather icons switch statment isnt completely finished, so only certain weather will have icons showing! </td>
   </tr>
   <tr>
     <td>Week 4: Setting up a back-end Server</td>
     <td><a href="https://github.com/Kit2345/bc15-w4-d5-hackathon-backend-unlucky-13/blob/main/animals.json">Github repo</a></td>
-    <td><a href="">NA</a></td>
+    <td>NA</td>
     <td>Node.js, Express, Restful APIs</td>
     <td>We set up a server with CRUD functionality to get/post/edit/delete animals from a JSON file.</td>
   </tr>
     <tr>
     <td>Week 5: PostgreSQL database</td>
     <td><a href="https://github.com/Kit2345/bc15-w5-d5-hackathon-build-a-rest-api-with-postgres-team12">Github repo</a></td>
-    <td><a href="">NA</a></td>
+    <td>NA</td>
     <td>PostgreSQL, Restful APIs</td>
     <td>This week we learnt about PostgresSQL and built a restful API to get/post/edit/delete songs from an external database.</td>
   </tr>
