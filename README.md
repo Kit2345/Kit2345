@@ -65,15 +65,84 @@ sewing, video games, hiking, board games and baking <br>
     <td>React, Javascript</td>
     <td>Built during the School of Code Bootcamp. Built in teams of three, using Driver/Navigator approach. Our first ever React app!</td>
   </tr>
+  <tr>
+      <td>Quiz/Revision App</td>
+    <td><a href="https://github.com/Kit2345/bc15-w8-project-front-end-tech-ti-tens">Front-end</a>/
+    <a href="https://github.com/Kit2345/bc15-w8-project-back-end-tech-ti-tens">Back-end</a></td>
+    <td><a href="https://bc15-w8-project-front-end-tech-ti-tens-mu.vercel.app">Demo Link</a></td>
+    <td>Javascript, HTML, CSS, Node.js, Express, Restful APIs, Playwright, Postgres</td>
+    <td>1 week mini project during week 8 of the bootcamp. We built an app to help solve a problem bootcampers face <br><a href="https://github.com/Kit2345/bc15-w8-project-back-end-tech-ti-tens?tab=readme-ov-file">Click for more information</a></td>
+  </tr>
+
+  
+</table>
+
+## Weekly Hackathons at School of Code
+
+<p>At the end of each week, we consolidated all our learning by taking part in a one day hackathon. We were given a brief, then scoped out the problem, planned using psuedo code before executing this plan. </p>
+
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Github Repo</th> 
+    <th>Demo link</th>
+    <th>Tech Stack</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Week 2: Rock, Paper, Scissors</td>
+    <td><a href="https://github.com/Kit2345/bc15-w2-d5-hackathon-rps-game-kit-alexander-marco">Github repo</a></td>
+    <td><a href="https://bc15-w2-d5-hackathon-rps-game-kit-alexander-marco.vercel.app">Demo Link</a></td>
+    <td>Javascript</td>
+    <td>The week was all about Javascript fundamentals. We were tasked to build a Rock, Paper, Scissors game using alerts only</td>
+  </tr>
+  <tr>
+    <td>Week 3: Weather App</td>
+    <td><a href="https://github.com/Kit2345/bc15-w3-d5-hackathon-fetch-team-17w3d1">Github repo</a></td>
+    <td><a href="">Demo Link</a></td>
+    <td>Javascript, HTML, CSS</td>
+    <td>This week covered fetching data from an API and manipulating the DOM. This week was tough, a lot of new concepts (probably can say the same about most weeks!). The weather icons switch statment isnt completely finished, so only certain weather will have icons showing! </td>
+  </tr>
+  <tr>
+    <td>Week 4: Setting up a back-end Server</td>
+    <td><a href="https://github.com/Kit2345/bc15-w4-d5-hackathon-backend-unlucky-13/blob/main/animals.json">Github repo</a></td>
+    <td><a href="">NA</a></td>
+    <td>Node.js, Express, Restful APIs</td>
+    <td>We set up a server with CRUD functionality to get/post/edit/delete animals from a JSON file.</td>
+  </tr>
     <tr>
-    <td>Hackathon during Testing week</td>
+    <td>Week 5: PostgreSQL database</td>
+    <td><a href="https://github.com/Kit2345/bc15-w5-d5-hackathon-build-a-rest-api-with-postgres-team12">Github repo</a></td>
+    <td><a href="">NA</a></td>
+    <td>PostgreSQL, Restful APIs</td>
+    <td>This week we learnt about PostgresSQL and built a restful API to get/post/edit/delete songs from an external database.</td>
+  </tr>
+  <tr>
+    <td>Week 6: Testing</td>
     <td><a href="https://github.com/Kit2345/bc15-w6-d5-hackathon-testathon-team17-week6">Github repo</a></td>
     <td><a href="https://github.com/Kit2345/bc15-w6-d5-hackathon-testathon-team17-week6/blob/main/todos/todos.test.js">Vitest file.</a></td>
     <td>Vitest, Playwright</td>
-    <td>During the bootcamp we learnt about automated testing using Vitest for Unit tests, and Playwright for end to end tests. This is the one day hackathon at the end of testing week.</td>
+    <td>During the bootcamp we learnt about automated testing using Vitest for Unit tests, and Playwright for end to end tests. The task was to write tests to check API calls.</td>
   </tr>
-  
-</table>
+    <tr>
+    <td>Week 7: Re-creating the BBC website</td>
+    <td><a href="https://github.com/Kit2345/bc15-w7-hackathon-ux-ui-team19_james_jordan_kit">Github repo</a></td>
+    <td><a href="https://bc15-w7-hackathon-ux-ui-team19-james-jordan-kit.vercel.app">Demo Link</a></td>
+    <td>HTML, CSS</td>
+    <td>This week was all about UX and UI. We recreated the look of the BBC news website using a mobile first approach (unfortunately that means it currently only looks correct on mobile, best is iphone 14 promax). Our next step would have been to use media queries so it can be truly responsive. </td>
+  </tr>
+
+<!--  Row template
+  <tr>
+    <td>Week :</td>
+    <td><a href="">Github repo</a></td>
+    <td><a href="">Demo Link</a></td>
+    <td></td>
+    <td></td>
+  </tr> 
+  -->
+  </table>
 
 ## What am I currently doing? 
 - Designing an app to search for cards in Hearthstone Battlegrounds mode
