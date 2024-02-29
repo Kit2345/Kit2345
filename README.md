@@ -70,7 +70,7 @@ sewing, video games, hiking, board games and baking <br>
     <td><a href="https://github.com/Kit2345/bc15-w8-project-front-end-tech-ti-tens">Front-end</a>/
     <a href="https://github.com/Kit2345/bc15-w8-project-back-end-tech-ti-tens">Back-end</a></td>
     <td><a href="https://bc15-w8-project-front-end-tech-ti-tens-mu.vercel.app">Demo Link</a></td>
-    <td>Javascript, HTML, CSS, Node.js, Express, Restful APIs, Playwright, Postgres</td>
+    <td>Javascript, HTML, CSS, Node.js, Express, Restful APIs, Playwright, PostgreSQL</td>
     <td>1 week mini project during week 8 of the bootcamp. We built an app to help solve a problem bootcampers face <br><a href="https://github.com/Kit2345/bc15-w8-project-back-end-tech-ti-tens?tab=readme-ov-file">Click for more information</a></td>
   </tr>
 
