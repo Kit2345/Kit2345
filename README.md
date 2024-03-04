@@ -63,23 +63,38 @@ sewing, video games, hiking, board games and baking <br>
     <td><a href="https://github.com/Kit2345/bc15-w10-d2-workshop-react-flash-cards-app-week-10">Github repo</a></td>
     <td><a href="https://bc15-w10-d2-workshop-react-flash-cards-app-week-10.vercel.app/">Demo link</a></td>
     <td>React, Javascript</td>
-    <td>Built during the School of Code Bootcamp. Built in teams of three, using Driver/Navigator approach. Our first ever React app!</td>
+    <td>Built during the School of Code Bootcamp, in teams of three, using Driver/Navigator approach. My first ever React app!</td>
   </tr>
   <tr>
-      <td>Quiz/Revision App</td>
+    <td>Quiz/Revision App</td>
     <td><a href="https://github.com/Kit2345/bc15-w8-project-front-end-tech-ti-tens">Front-end</a>/
     <a href="https://github.com/Kit2345/bc15-w8-project-back-end-tech-ti-tens">Back-end</a></td>
     <td><a href="https://bc15-w8-project-front-end-tech-ti-tens-mu.vercel.app">Demo Link</a></td>
     <td>Javascript, HTML, CSS, Node.js, Express, Restful APIs, Playwright, PostgreSQL</td>
     <td>1 week mini project during week 8 of the bootcamp. We built an app to help solve a problem bootcampers face <br><a href="https://github.com/Kit2345/bc15-w8-project-back-end-tech-ti-tens?tab=readme-ov-file">Click for more information</a></td>
   </tr>
-
-  
+  <tr>
+    <td>Testing week Hackathon</td>
+    <td><a href="https://github.com/Kit2345/bc15-w6-d5-hackathon-testathon-team17-week6">Github repo</a></td>
+    <td><a href="https://github.com/Kit2345/bc15-w6-d5-hackathon-testathon-team17-week6/blob/main/todos/todos.test.js">Vitest file.</a></td>
+    <td>Vitest, Playwright</td>
+    <td>During the bootcamp we learnt about automated testing using Vitest for Unit tests, and Playwright for end to end tests. The task was to write tests to check API calls.</td>
+  </tr>
+  <tr>
+    <td>Week 2 Hackathon: Rock, Paper, Scissors</td>
+    <td><a href="https://github.com/Kit2345/bc15-w2-d5-hackathon-rps-game-kit-alexander-marco">Github repo</a></td>
+    <td><a href="https://bc15-w2-d5-hackathon-rps-game-kit-alexander-marco.vercel.app">Demo Link</a></td>
+    <td>Javascript</td>
+    <td>The week was all about Javascript fundamentals. We were tasked to build a Rock, Paper, Scissors game using alerts only</td>
+  </tr>
 </table>
 
+<!--
 ## One day Hackathons at School of Code
 
 <p>At the end of each week, we consolidated all our learning by taking part in a one day hackathon. We were given a brief, then scoped out the problem, planned using psuedo code before executing this plan. </p>
+
+<p>These aren't finished projects, but more  </p>
 
 
 <table>
@@ -139,6 +154,8 @@ sewing, video games, hiking, board games and baking <br>
     <td>React, Javascript</td>
     <td>We learnt React this week, and finished the week off by building a recipe App. We used a PostgreSQL database, but a non-relational one might have been better.</td>
   </tr> 
+  </table>
+  -->
 
 <!--  Row template
   <tr>
@@ -149,10 +166,11 @@ sewing, video games, hiking, board games and baking <br>
     <td></td>
   </tr> 
   -->
-  </table>
+
 
 ## What am I currently doing? 
 - Working on an app with an ex-bootcamper
+- Volunteering with Preptrack
 - Designing an app to search for cards in Hearthstone Battlegrounds mode
 - Learning Python
 - Learning React Native
