@@ -169,7 +169,7 @@ sewing, video games, hiking, board games and baking <br>
 
 
 ## What am I currently doing? 
-- Working on an app with an ex-bootcamper
+- Working on an app with an ex-bootcamper <a href="https://github.com/HannahThor/colour-weather-app">Github repo</a>
 - Volunteering with Preptrack
 - Designing an app to search for cards in Hearthstone Battlegrounds mode
 - Learning Python
