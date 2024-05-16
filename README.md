@@ -55,6 +55,7 @@ sewing, video games, hiking, board games and baking <br>
     <td><a href="https://minesweeper-omega-eight.vercel.app">Demo link</a></td>
     <td>Javascript, HTML, CSS</td>
     <td>
+     Built after I finished the School of Code bootcamp to revise and build upon fundamentals of Javascript.  
      <a href="https://github.com/Kit2345/minesweeper/blob/main/README.md">Click for more information</a><br>
     </td>
   </tr>
