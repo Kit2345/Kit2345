@@ -59,13 +59,6 @@ sewing, video games, hiking, board games and baking <br>
      <a href="https://github.com/Kit2345/minesweeper/blob/main/README.md">Click for more information</a><br>
     </td>
   </tr>
-  <tr>
-    <td>React Flashcards App</td>
-    <td><a href="https://github.com/Kit2345/bc15-w10-d2-workshop-react-flash-cards-app-week-10">Github repo</a></td>
-    <td><a href="https://bc15-w10-d2-workshop-react-flash-cards-app-week-10.vercel.app/">Demo link</a></td>
-    <td>React, Javascript</td>
-    <td>Built during the School of Code Bootcamp, in teams of three, using Driver/Navigator approach. My first ever React app!</td>
-  </tr>
     <tr>
     <td>In Progress: Stitch the Weather:</td>
     <td><a href="https://github.com/HannahThor/colour-weather-app">Github repo</a></td>
@@ -73,6 +66,13 @@ sewing, video games, hiking, board games and baking <br>
     <td>React, Javascript</td>
     <td>Post bootcamp and current pair programming project with <a href="https://github.com/HannahThor">Hannah</a>. An app to help crafters make a temperature garment by using yesterday's temperature to give a colour of the day.   </td>
   </tr> 
+   <tr>
+    <td>React Flashcards App</td>
+    <td><a href="https://github.com/Kit2345/bc15-w10-d2-workshop-react-flash-cards-app-week-10">Github repo</a></td>
+    <td><a href="https://bc15-w10-d2-workshop-react-flash-cards-app-week-10.vercel.app/">Demo link</a></td>
+    <td>React, Javascript</td>
+    <td>Built during the School of Code Bootcamp, in teams of three, using Driver/Navigator approach. My first ever React app!</td>
+  </tr>
   <tr>
     <td>Quiz/Revision App</td>
     <td><a href="https://github.com/Kit2345/bc15-w8-project-front-end-tech-ti-tens">Front-end</a>/
