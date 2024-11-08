@@ -54,7 +54,7 @@ sewing, video games, hiking, board games and baking <br>
     <td><a href="https://github.com/Kit2345/job_hunt_data">Github repo</a></td>
     <td><a href=""></a></td>
     <td>Python, Pandas, MatLibPlot</td>
-    <td>Data analysis of my job application data.</td>
+    <td>Data analysis of my job application data. Have a look at the readme for my findings with graphs</td>
   </tr> 
     <tr>
     <td>Absctract Scraper</td>
