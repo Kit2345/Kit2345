@@ -33,6 +33,37 @@ sewing, video games, hiking, board games and baking <br>
     <th>Notes</th>
   </tr>
   <tr>
+    <td>Minesweeper Game </td>
+    <td><a href="https://github.com/Kit2345/minesweeper">Github Repo</a></td>
+    <td><a href="https://minesweeper-omega-eight.vercel.app">Demo link</a></td>
+    <td>Javascript, HTML, CSS</td>
+    <td>
+     Built after I finished the School of Code bootcamp to revise and build upon fundamentals of Javascript.  
+     <a href="https://github.com/Kit2345/minesweeper/blob/main/README.md">Click for more information</a><br>
+    </td>
+  </tr>
+    <tr>
+    <td>Stitch the Weather</td>
+    <td><a href="https://github.com/HannahThor/colour-weather-app">Github repo</a></td>
+    <td><a href="https://stitch-the-weather.netlify.app">Demo Link</a></td>
+    <td>React, Javascript</td>
+    <td>Post bootcamp and pair programming project with <a href="https://github.com/HannahThor">Hannah</a>. An app to help crafters make a temperature garment by using yesterday's temperature to give a colour of the day.   </td>
+  </tr> 
+    <tr>
+    <td>Data Analysis</td>
+    <td><a href="https://github.com/Kit2345/job_hunt_data">Github repo</a></td>
+    <td><a href=""></a></td>
+    <td>Python, Pandas, MatLibPlot</td>
+    <td>Data analysis of my job application data.</td>
+  </tr> 
+    <tr>
+    <td>Absctract Scraper</td>
+    <td><a href="https://github.com/Kit2345/abstract-scraper">Github repo</a></td>
+    <td><a href=""></a></td>
+    <td>Python, Pandas, BeautifulSoup</td>
+    <td>A tool to scrap abstracts from journals and returns whether they contain user specified key words</td>
+  </tr> 
+    <tr>
     <td>Zoom Dashboard</td>
     <td><a href="https://github.com/Kit2345/intern">Github Repo</a></td>
     <td>
@@ -49,23 +80,6 @@ sewing, video games, hiking, board games and baking <br>
       <a href="https://github.com/Kit2345/intern/blob/main/README.md">Click for more information</a>
     </td>
   </tr>
-  <tr>
-    <td>Minesweeper Game </td>
-    <td><a href="https://github.com/Kit2345/minesweeper">Github Repo</a></td>
-    <td><a href="https://minesweeper-omega-eight.vercel.app">Demo link</a></td>
-    <td>Javascript, HTML, CSS</td>
-    <td>
-     Built after I finished the School of Code bootcamp to revise and build upon fundamentals of Javascript.  
-     <a href="https://github.com/Kit2345/minesweeper/blob/main/README.md">Click for more information</a><br>
-    </td>
-  </tr>
-    <tr>
-    <td>In Progress: Stitch the Weather:</td>
-    <td><a href="https://github.com/HannahThor/colour-weather-app">Github repo</a></td>
-    <td><a href="https://stitch-the-weather.netlify.app">Demo Link</a></td>
-    <td>React, Javascript</td>
-    <td>Post bootcamp and current pair programming project with <a href="https://github.com/HannahThor">Hannah</a>. An app to help crafters make a temperature garment by using yesterday's temperature to give a colour of the day.   </td>
-  </tr> 
    <tr>
     <td>React Flashcards App</td>
     <td><a href="https://github.com/Kit2345/bc15-w10-d2-workshop-react-flash-cards-app-week-10">Github repo</a></td>
