@@ -68,7 +68,7 @@ sewing, video games, hiking, board games and baking <br>
     <td><a href="https://github.com/Kit2345/intern">Github Repo</a></td>
     <td>
 <!--       <a href="https://youtu.be/zLijHkYBln8?feature=shared">Demo Video</a><br> -->
-           <a href="intern-kappa-seven.vercel.app/">Demo Link</a><br>
+           <a href="intern-kappa-seven.vercel.app">Demo Link</a><br>
       <p></p>
 <!--       <a href="https://intern-soc.vercel.app/">Demo link</a></td> -->
     <td>Next.JS, Tailwind CSS, Typescript, Supabase, Chart.js, PostgreSQL, Playwright, Ts-Jest, </td>
