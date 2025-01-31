@@ -104,13 +104,13 @@ sewing, video games, hiking, board games and baking <br>
     <td>Vitest, Playwright</td>
     <td>During the bootcamp we learnt about automated testing using Vitest for Unit tests, and Playwright for end to end tests. The task was to write tests to check API calls.</td>
   </tr>
-  <tr>
+<!--   <tr>
     <td>Week 2 Hackathon: Rock, Paper, Scissors</td>
     <td><a href="https://github.com/Kit2345/bc15-w2-d5-hackathon-rps-game-kit-alexander-marco">Github repo</a></td>
     <td><a href="https://bc15-w2-d5-hackathon-rps-game-kit-alexander-marco.vercel.app">Demo Link</a></td>
     <td>Javascript</td>
     <td>The week was all about Javascript fundamentals. We were tasked to build a Rock, Paper, Scissors game using alerts only</td>
-  </tr>
+  </tr> -->
 </table>
 
 <!--
