@@ -216,6 +216,7 @@ sewing, video games, hiking, board games and baking <br>
 <div>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" alt="javacript-badge">
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic" alt="typescript-badge">
+<img src="https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white&style=plastic" alt="python-badge">
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" alt="reactjs-badge">
 <img src="https://img.shields.io/badge/-Next.Js-000000?logo=next.js&logoColor=white&style=plastic" alt="nextjs-badge">
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=plastic" alt="postgresql-badge">
@@ -224,6 +225,7 @@ sewing, video games, hiking, board games and baking <br>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic" alt="html5-badge">
 <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=plastic" alt="tailwindcss-badge">
 </div>
+
 
 ### Testing:
 <div>
